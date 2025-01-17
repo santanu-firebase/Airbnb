@@ -2,7 +2,7 @@
 
 This is a starter template for building a SaaS application using **Next.js** with support for authentication, Stripe integration for payments, and a dashboard for logged-in users.
 
-**Demo: [https://next-saas-start.vercel.app/](https://next-saas-start.vercel.app/)**
+**Demo: [https://airbnb-jbphrp9bm-santanus-projects-35c46b31.vercel.app/](https://airbnb-jbphrp9bm-santanus-projects-35c46b31.vercel.app/)**
 
 <details>
   <summary>Why did I make this?</summary>

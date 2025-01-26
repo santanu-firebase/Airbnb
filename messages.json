@@ -1,0 +1,83 @@
+[
+    {
+      "messageThreads": [
+        {
+          "messagesAndContents": [
+            {
+              "message": {
+                "createdAt": "2017-08-04T23:49:51.159Z",
+                "accountType": "service",
+                "id": 1527227,
+                "isPrivate": false,
+                "contentType": "TextContent"
+              },
+              "messageContent": {
+                "textContent": {
+                  "body": "Thanks for your message — you can expect a reply from Airbnb Support within 24 hours."
+                }
+              }
+            },
+            {
+              "message": {
+                "createdAt": "2017-08-05T13:06:21.947Z",
+                "accountType": "service",
+                "id": 84356085,
+                "isPrivate": false,
+                "contentType": "EventDescriptionContent"
+              },
+              "messageContent": {
+                "eventDescriptionContent": {
+                  "eventType": "sup_thread_closure"
+                }
+              }
+            },
+            {
+              "message": {
+                "accountId": 117563320,
+                "createdAt": "2017-08-04T23:49:50.602Z",
+                "accountType": "user",
+                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36",
+                "id": 1527225,
+                "isPrivate": false,
+                "contentType": "TextContent"
+              },
+              "messageContent": {
+                "textContent": {
+                  "body": "Please advise on Airbnb Urban Supply for API in Australia."
+                }
+              }
+            }
+          ],
+          "id": 161582,
+          "messageThreadParticipants": [
+            {
+              "accountId": 117563320,
+              "createdAt": "2017-08-04T23:49:50.596Z",
+              "groupParticipant": false,
+              "statusActive": true,
+              "accountType": "user",
+              "updatedAt": "2017-08-04T23:49:50.596Z"
+            },
+            {
+              "statusActive": true,
+              "accountType": "service"
+            },
+            {
+              "statusActive": true,
+              "accountType": "service"
+            }
+          ],
+          "messageThreadUserTags": [
+            {
+              "tagValue": true,
+              "tagName": "GUEST_INBOX"
+            },
+            {
+              "tagValue": true,
+              "tagName": "READ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
